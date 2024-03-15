@@ -1,2 +1,2 @@
 # terraform_cloud
-Project Based Project for learning Terraform.
+Project Based Learning for Terraform.
